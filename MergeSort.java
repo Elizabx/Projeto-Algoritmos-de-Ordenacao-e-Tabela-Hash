@@ -7,7 +7,7 @@ package ed2.projeto.algoritmosordenacao;
  *
  */
 
-public class MergeSort implements IAlgoritmoOrdenacao {
+public class MergeSort implements InterfaceAlgoritmoOrdenacao {
 
   @Override
 	

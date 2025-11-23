@@ -7,13 +7,13 @@ package ed2.projeto.algoritmosordenacao;
  *
  */
 
-public class QuickSort implements IAlgoritmoOrdenacao {
+public class QuickSort implements InterfaceAlgoritmoOrdenacao {
 
   public QuickSort() {
 
   }
   
-  // Métodos
+  // Mï¿½todos
   
   @Override
 	

@@ -15,11 +15,11 @@ public class Utils {
 
   }
   
-  // Métodos
+  // Mï¿½todos
   
   public static void imprimirVetor(int[] vetor) {
 	
-	System.out.print( "  Vetor = {" );
+	System.out.print( "{" );
 	  
     for(int i = 0; i < vetor.length; i++) {
     	
