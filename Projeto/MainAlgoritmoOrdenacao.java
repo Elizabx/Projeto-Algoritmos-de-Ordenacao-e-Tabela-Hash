@@ -1,4 +1,4 @@
-package ed2.projeto.algoritmosordenacao;
+package ed2.projeto.algoritmosordenacao.Projeto;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -26,7 +26,7 @@ public class MainAlgoritmoOrdenacao  {
                 System.out.printf(" %d. %s\n", (i + 1), algoritmos[i].toString());
             }
 
-            System.out.println("0. Sair");
+            System.out.println(" 0. Sair");
             System.out.println("Escolha um algoritmo: ");
 
             if (sc.hasNextInt()){
