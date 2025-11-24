@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Projeto/Projeto Algoritmos de Ordenação e Tabela Hash.iml" filepath="$PROJECT_DIR$/Projeto/Projeto Algoritmos de Ordenação e Tabela Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoritmosDeOrdenação/Projeto Algoritmos de Ordenação e Tabela Hash.iml" filepath="$PROJECT_DIR$/AlgoritmosDeOrdenação/Projeto Algoritmos de Ordenação e Tabela Hash.iml" />
     </modules>
   </component>
 </project>
